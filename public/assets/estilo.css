@@ -1,0 +1,26 @@
+body{
+    background-color:#e6e6e6;
+    font-family:sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mensaje_correcto{
+    border:2px solid #16861a;
+    border-radius:10px;
+    text-align:center;
+    background-color:#4caf5061;
+    color:#008305;
+    font-weight:bold;
+    margin-bottom:5px;
+}
+.mensaje_incorrecto{
+    border:2px solid #c30000;
+    border-radius:10px;
+    text-align:center;
+    background-color:#d1000061;
+    color:#830000;
+    font-weight:bold;
+    margin-bottom:5px;
+}

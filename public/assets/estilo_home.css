@@ -1,0 +1,52 @@
+.box_contenedor{
+    width:90%;
+    margin:auto;
+    text-align: flex;
+}
+
+.box_contenedor{
+    display:flex;
+}
+
+
+.box_contenedor_duo  .curve_chart
+{
+        padding:10px;    
+    width: 900px;
+        height: 400px;
+} 
+
+.box_contenedor_duo input{
+    width:100%;
+    padding:10px;
+    margin-top:10px;
+    margin-bottom:10px;
+    font-size:15px;
+        
+}
+.box_contenedor_duo table, td, th {
+    border: 1px solid #434343;
+    padding:5px;
+}
+.box_contenedor_duo table thead{
+    background-color:#FF9800;
+    color:#fff;
+}
+
+.box_contenedor_duo table {
+  border-collapse: collapse;
+    background-color:#fff;
+    
+}
+
+.dropdown-menu{
+    text-align:right;
+}
+.dropdown-item{
+    background-color:#ff2727;
+    padding:10px 25px;
+    text-decoration:none;
+    color:white;
+    border-radius:5px;
+    
+}
